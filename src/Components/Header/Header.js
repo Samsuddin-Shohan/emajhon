@@ -9,11 +9,11 @@ const Header = () => {
             <div className='text-center my-3'>
                 <img src={logo} className='logo' alt="" />
             </div>
-                <nav className='nav-bar'>
+            <nav className='nav-bar'>
                     <a href="/shop">Shop</a>
                     <a href="/orderreview">Order Reviw</a>
                     <a href="/inventory">Manage Inventory here</a>
-                </nav>
+            </nav>
             <div>
             
             </div>    
